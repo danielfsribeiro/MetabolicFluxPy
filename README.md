@@ -42,7 +42,7 @@ Arguments:
                       									 export reactions (e.g. ‘glc[e] <==>’), so import of a metabolite is a negative flux and
                       									 export of a metabolite is a positive flux.  
 **-m MODEL, --model MODEL** path/to/metabolic/model/file, in XML format. Tested with Recon3D.  
-**-o OUTPUT_PATH, --output_path OUTPUT_PATH** path/to/output/folder. Default is current path.
+**-o OUTPUT_PATH, --output_path OUTPUT_PATH** path/to/output/folder. Default is current path.  
 **-n NAME, --name NAME** Optional name for the analysis.
 
 ## Licence:  
