@@ -699,7 +699,7 @@ def size(a, b=0, nargout=1):
     #Daniel 2021: Fix size
     #s = np.asarray(a)[:, None].shape
     s = np.asarray(a).shape
-    if s is ():
+    if s == ():
         return 1 if b else (1,)*nargout
     # a is not a scalar
     try:
