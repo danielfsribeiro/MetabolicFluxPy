@@ -46,6 +46,7 @@ Arguments:
 **-n NAME, --name NAME** Optional name for the analysis.
 
 ## Licence:  
+MetabolicFluxPy: GPL-3.0 licence   
 [Granata, 2019][1], [Lee et al. 2012][2], [Machado et al. 2014][3], : CC BY 4.0 licence  
 [OpenCobra Toolbox v.3.0][4]: GPL-3.0 licence  
 [COBRApy 0.21][5]: GPL-2.0+ license  
